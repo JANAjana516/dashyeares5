@@ -1,6 +1,6 @@
 import { useState } from "react";
 import '../CSS/Login.css';
-
+import { useNavigate } from "react-router-dom";
 import a from "../image/avata.svg";
 
 
@@ -8,7 +8,7 @@ import a from "../image/avata.svg";
 export default function Login(){
     const [name,setName]=useState('');
     const [password,setPassword]=useState('');
-
+const navigate = useNavigate(); 
     
  async   function s(e){ 
      
@@ -16,10 +16,10 @@ export default function Login(){
   
     if( name==='admin' && password==='admin')
     {
-        window.location.pathname="/home";
+         navigate("/home");
     }else 
     {
-        window.location.pathname="/";
+         navigate("/");
 
     }
 
