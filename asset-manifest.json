@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dashyeares5/static/css/main.050b6ad7.css",
-    "main.js": "/dashyeares5/static/js/main.017fb217.js",
+    "main.js": "/dashyeares5/static/js/main.77b1b4f1.js",
     "static/js/787.82ea8e80.chunk.js": "/dashyeares5/static/js/787.82ea8e80.chunk.js",
     "static/media/foot.png": "/dashyeares5/static/media/foot.21bae569df9a6782383d.png",
     "static/media/p.jpg": "/dashyeares5/static/media/p.1638ce2a4306ed465f2e.jpg",
@@ -12,11 +12,11 @@
     "static/media/avata.svg": "/dashyeares5/static/media/avata.7c7a38784cc67a803296868fa1489052.svg",
     "index.html": "/dashyeares5/index.html",
     "main.050b6ad7.css.map": "/dashyeares5/static/css/main.050b6ad7.css.map",
-    "main.017fb217.js.map": "/dashyeares5/static/js/main.017fb217.js.map",
+    "main.77b1b4f1.js.map": "/dashyeares5/static/js/main.77b1b4f1.js.map",
     "787.82ea8e80.chunk.js.map": "/dashyeares5/static/js/787.82ea8e80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.050b6ad7.css",
-    "static/js/main.017fb217.js"
+    "static/js/main.77b1b4f1.js"
   ]
 }
