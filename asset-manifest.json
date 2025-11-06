@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dashyeares5/static/css/main.050b6ad7.css",
+    "main.js": "/dashyeares5/static/js/main.017fb217.js",
+    "static/js/787.82ea8e80.chunk.js": "/dashyeares5/static/js/787.82ea8e80.chunk.js",
+    "static/media/foot.png": "/dashyeares5/static/media/foot.21bae569df9a6782383d.png",
+    "static/media/p.jpg": "/dashyeares5/static/media/p.1638ce2a4306ed465f2e.jpg",
+    "static/media/15.png": "/dashyeares5/static/media/15.7b4e9a6def01b00499cf.png",
+    "static/media/6.png": "/dashyeares5/static/media/6.12a2e7d98d16e0db66d1.png",
+    "static/media/hi.png": "/dashyeares5/static/media/hi.4977fa5c07d362a6bb4f.png",
+    "static/media/AT.png": "/dashyeares5/static/media/AT.56a5c75d052b72c451ed.png",
+    "static/media/avata.svg": "/dashyeares5/static/media/avata.7c7a38784cc67a803296868fa1489052.svg",
+    "index.html": "/dashyeares5/index.html",
+    "main.050b6ad7.css.map": "/dashyeares5/static/css/main.050b6ad7.css.map",
+    "main.017fb217.js.map": "/dashyeares5/static/js/main.017fb217.js.map",
+    "787.82ea8e80.chunk.js.map": "/dashyeares5/static/js/787.82ea8e80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.050b6ad7.css",
+    "static/js/main.017fb217.js"
+  ]
+}
