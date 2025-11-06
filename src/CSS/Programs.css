@@ -1,0 +1,360 @@
+.part1{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.br{
+    width: 500px;
+    border-top: 2px solid rgb(54, 50, 50) ;
+    margin-bottom: 10px;
+}
+.p{
+    color:  rgb(31, 119, 182);
+    font-size: 0.9rem;
+    margin-right: 30px;
+    
+}
+.contain{
+    width: 50%;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-gap: 10px;
+}
+.label{
+    color:  rgb(31, 119, 182);
+    font-size: 0.9rem;
+    font-weight: bold;
+  
+    
+}
+.input{
+    width: 150px;
+    height: 25px;
+    background-color: white; 
+    border: 2px solid rgb(31, 119, 182);
+    border-radius: 3px;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 10px;
+
+    
+}
+.input:focus{
+    border: 1px solid rgb(31, 119, 182) ;
+    font-size: 0.9rem;
+}
+
+
+
+.continerprograms{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-gap: 1px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 700px;
+   
+
+}
+.error{
+    color: red;
+    font-size: 13px;
+    margin-top: 0;
+
+}
+.rtl{
+    direction: rtl;
+    font-size: 1.5rem;
+}
+
+.ltr{
+    direction: ltr;
+    font-size: 1.5rem;
+}
+
+.column{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-gap: 1px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 800px;
+}
+.yearprogram{
+    margin-left: 100px;
+    transform: translateY(-40px);
+}
+
+
+
+
+
+
+
+/* PROFILES */
+
+
+.nameProfiles{
+    width: 80px;
+    height: 80px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.42),rgba(80, 216, 204, 0.4113),rgba(82, 171, 221, 0.1932),rgba(80, 220, 202, 0.42));
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+/* CREATCLASS */
+.h5{
+    color: rgb(31, 119, 182) ;
+    font-size: 0.9rem;
+}
+.na{
+    font-size: 0.9rem;
+    color: rgb(39, 38, 38);
+    font-weight: bold;
+    
+}
+.icon{
+    width: 10px;
+    height: 10px;
+    margin-top: 20px;
+    
+    
+}
+.span{
+    color: rgb(31, 119, 182);
+    margin-left: 80px;
+    font-size: 0.8rem;
+    margin-top: -32px;
+    
+    
+}
+.inputNumber{
+    width: 40px;
+    height: 10px;
+    background-color: #fbfdfc;
+    margin-left:50px;
+    margin-bottom: 20px;
+    /* transform: translateY(-50px); */
+    
+}
+.button{
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin-top: 10px;
+    border: 1px solid rgb(31, 119, 182);
+    border-radius: 5px;
+    margin-right: 50px;
+    width: 90px;
+    height: 20px;
+    margin-bottom: 50px;
+
+}
+.button:hover{
+    background-color: rgb(31, 119, 182);
+    color: white;   
+}
+
+
+/* First  */
+.bb{
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(182, 181, 181);
+    color: black;
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-right: 50px;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 50px;
+
+}
+.bb:hover{
+    background-color: rgb(31, 119, 182);
+    color: white;   
+}
+.allcircle{
+    justify-content: center;
+    text-align: center;
+}
+
+.circle{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+   background-color:rgba(80, 99, 220, 0.5);
+    display: inline-flex;
+   
+    margin: 10px;
+    margin-bottom: 50px;
+}
+
+
+
+/* CONTACT */
+
+.contactName{
+    width: 900px;
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+
+}
+
+
+.contactimag{
+    margin-left: 400px;
+    margin-bottom: 70px;
+}
+
+
+/* ABOUT */
+.about{
+    font-size: 0.8rem;
+    margin-bottom: 50px;
+}
+
+
+/* CREAE PROFILE */
+
+.profileGRIDE{
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+
+}
+
+.primg{
+    width: 200px;
+    height: 200px;
+    margin-top: 90px;
+    margin-left: -120px;
+}
+
+
+.h22{
+    color: rgb(80, 99, 220);
+    margin-top: 120px;
+}
+
+/* Fifth1 */
+.fifth1{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+    padding: 70px 0;
+    margin-top: 50px;
+
+}
+
+.f1{
+    
+    text-align: center;
+}
+.f2{
+    text-align: center;
+    margin-left: -70px;
+}
+.fImage{
+   width: 150px;
+   height: 150px;
+   margin-left: 500px;
+   margin-top: -60px;
+   margin-bottom: 70px;
+
+}
+
+
+
+@media (max-width: 800px){
+    .part1{
+        margin-left: 2px;
+    }
+    .contain{
+        display: grid;
+        grid-template-columns: 1fr ;
+        grid-gap: 10px;
+        
+    }  
+    .pyear{
+        margin-left: -180px;
+    }
+    .input{
+        margin-top: 10px;
+    }
+    .continerprograms{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+        grid-gap: 20px;
+        width: 120px;
+    }
+    .br{
+        width: 240px;
+        border-top: 2px solid rgb(54, 50, 50) ;
+    }
+    .programImage{
+        width: 170px;
+        height: 130px;
+        margin-bottom: 90px;
+        margin-left: -10px;
+    }
+    .classImage{
+        width: 170px;
+        height: 130px;
+        margin-bottom: 50px;
+    }
+
+    .centerSubjects{
+        width: 170px;
+        height: 130px;
+        margin-top: 30px;
+    }
+    .contactimag{
+        margin-left: 160px;
+    }
+    .contactName{
+        width: 700px;
+        margin-bottom: 30px;
+        display: grid;
+        grid-template-columns: 1fr ;
+    
+    }
+
+
+    .about{
+        font-size: 0.8rem;
+    }
+
+
+    .h22{
+        font-size: 0.9rem;
+        margin-top: 50px;
+    }
+
+    .fImage{
+        width: 100px;
+        height: 100px;
+        margin-left: 150px;
+        margin-top: -80px;
+        margin-bottom: 50px;
+     
+     }
+     .primg{
+        width: 150px;
+        height: 150px;
+        margin-top: 90px;
+        margin-left: -1px;
+    }
+    .inputNumber{
+        margin-left: 270px;
+
+    }
+}
